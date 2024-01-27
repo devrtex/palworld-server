@@ -1,13 +1,15 @@
-# Set up a Palworld dedicated server on Linux
-A simplified script to set up a Palworld dedicated server on Debian Linux
+Setting up a Palworld Dedicated Server on Linux
+This is a simplified script to help you set up a Palworld dedicated server on Debian Linux.
 
-> [!IMPORTANT]
-> This script has only been tested on Debian 64-bit systems. Users on other operating systems or architectures may experience different results. Please proceed with caution and verify compatibility before use.
-> Server Requirements:-
-> - CPU: With 4 cores
-> - RAM (Memory): 8GB
-> - Tested on: Debian 12 x64
+[!IMPORTANT]
+This script has only been tested on Debian 64-bit systems. Users on other operating systems or architectures may experience different results. Please proceed with caution and verify compatibility before use.
 
-> [!CAUTION]
-> - This script is based on Debian 12 and Ubuntu 23.10, it might work with other distros.
-> - The game is in early access, this script will help you install your own dedicated server on Linux but it will not solve all the problems related to the game itself.
+Server Requirements:
+
+CPU: 4 cores
+RAM (Memory): 8GB
+Tested on: Debian 12 x64
+[!CAUTION]
+
+This script is designed for Debian 12 but may work with other Linux distributions.
+Palworld is in early access, so while this script helps you install your own dedicated server on Linux, it may not resolve all game-related issues.
