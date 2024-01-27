@@ -1,9 +1,6 @@
 # Set up a Palworld dedicated server on Linux
 A simplified script to set up a Palworld dedicated server on Debian Linux with feature to uploads backups to an FTP server for migration.
 
-> [!IMPORTANT]
-> This script has only been tested on Debian 64-bit systems. Users on other operating systems or architectures may experience different results. Please proceed with caution and verify compatibility before use.
-
 > [!CAUTION]
 > - This script is based on Debian 12, it might work with other distros.
 > - The game is in early access, this script will help you install your own dedicated server on Linux but it will not solve all the problems related to the game itself.
