@@ -1,5 +1,5 @@
 # Set up a Palworld dedicated server on Linux
-Set up a Palworld dedicated server on Debian Linux
+A simplified script to set up a Palworld dedicated server on Debian Linux
 
 > [!IMPORTANT]
 > This script has only been tested on Debian 64-bit systems. Users on other operating systems or architectures may experience different results. Please proceed with caution and verify compatibility before use.
