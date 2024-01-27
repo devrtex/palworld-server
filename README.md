@@ -8,6 +8,8 @@ Set up a Palworld dedicated server on Debian Linux
 
 > [!IMPORTANT]
 > This script has only been tested on Debian 64-bit systems. Users on other operating systems or architectures may experience different results. Please proceed with caution and verify compatibility before use.
+> Credit: A1RM4X 0.3 - [YouTube Channel](https://www.youtube.com/@A1RM4X)
+
 
 > [!CAUTION]
 > - This script is based on Debian 12 and Ubuntu 23.10, it might work with other distros it might not, please don´t come to my discord for support, I won´t have time to adapt this script for all the distros out there.
