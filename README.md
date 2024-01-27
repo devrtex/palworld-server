@@ -19,7 +19,7 @@ A simplified script to set up a Palworld dedicated server on Debian Linux
 | Resource | Minimum | Recommended                              |
 |----------|---------|------------------------------------------|
 | CPU      | 4 cores | 4+ cores                                 |
-| RAM      | 8GB     | Recommend over 32GB for stable operation |
+| RAM      | 8GB     | Recommend over 16GB for stable operation |
 | Storage  | 4GB     | 12GB                                     |
 
 
