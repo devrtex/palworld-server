@@ -16,3 +16,5 @@ A simplified script to set up a Palworld dedicated server on Debian Linux
 | RAM      | 8GB     | Recommend over 32GB for stable operation |
 | Storage  | 4GB     | 12GB                                     |
 
+## Features
+> - 1. cleanup_script.sh - Verifies a specified backup directory, navigates to it, and deletes the oldest file if it exists. It ensures directory validity, checks for files, selects the oldest one for deletion, and provides feedback. Designed for disk space optimization, it streamlines backup file management.
