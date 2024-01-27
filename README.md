@@ -8,6 +8,10 @@ A simplified script to set up a Palworld dedicated server on Debian Linux
 > - This script is based on Debian 12, it might work with other distros.
 > - The game is in early access, this script will help you install your own dedicated server on Linux but it will not solve all the problems related to the game itself.
 
+# Features
+
+> - cleanup_script.sh - Designed for disk space optimization. It deletes the oldest file if it exists and keep the new save file. Very efficient to only keep the latest save file.
+
 ## Server Requirements
 
 | Resource | Minimum | Recommended                              |
@@ -16,5 +20,4 @@ A simplified script to set up a Palworld dedicated server on Debian Linux
 | RAM      | 8GB     | Recommend over 32GB for stable operation |
 | Storage  | 4GB     | 12GB                                     |
 
-## Features
-> - 1. cleanup_script.sh - Verifies a specified backup directory, navigates to it, and deletes the oldest file if it exists. It ensures directory validity, checks for files, selects the oldest one for deletion, and provides feedback. Designed for disk space optimization, it streamlines backup file management.
+
