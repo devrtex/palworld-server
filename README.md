@@ -11,6 +11,7 @@ A simplified script to set up a Palworld dedicated server on Debian Linux
 # Features
 
 > - cleanup_script.sh - Designed for disk space optimization. It deletes the oldest file if it exists and keep the new save file. Very efficient to only keep the latest save file.
+> - palworld-maintenance.sh -  Updates the Palworld server using SteamCMD, creates a backup of the server files with a timestamp, and uploads the backup file to an FTP server for server migration.
 
 ## Server Requirements
 
