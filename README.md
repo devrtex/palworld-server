@@ -10,8 +10,8 @@ A simplified script to set up a Palworld dedicated server on Debian Linux with f
 
 # Features
 
-> - 1. Designed for disk space optimization. It deletes the oldest file if it exists and keep the new save file. Very efficient to only keep the latest save file.
-> - 2. Creates a backup of the server files, and uploads the backup file to an FTP server for an easy server migration.
+> 1. Designed for disk space optimization. It deletes the oldest file if it exists and keep the new save file. Very efficient to only keep the latest save file.
+> 2. Creates a backup of the server files, and uploads the backup file to an FTP server for an easy server migration.
 
 ## Server Requirements
 
