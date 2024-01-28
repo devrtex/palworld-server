@@ -10,7 +10,7 @@ Environment="templdpath=$LD_LIBRARY_PATH"
 Environment="LD_LIBRARY_PATH=/home/steam/:$LD_LIBRARY_PATH"
 Environment="SteamAppId=2394010"
 ExecStartPre=/home/steam/palworld-maintenance.sh
-ExecStart=/home/steam/.steam/steam/SteamApps/common/PalServer/PalServer.sh -useperfthreads -NoAsyncLoadingThread -UseMultithreadForDS > /dev/null
+ExecStart=/home/steam/.steam/steam/steamapps/common/PalServer/PalServer.sh -useperfthreads -NoAsyncLoadingThread -UseMultithreadForDS > /dev/null
 Restart=always
 RuntimeMaxSec=4h
 ExecStopPost=/home/steam/cleanup_script.sh
