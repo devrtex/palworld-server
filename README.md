@@ -1,5 +1,5 @@
 # Set up a Palworld dedicated server on Linux
-A simplified script to set up a Palworld dedicated server on Linux with feature to uploads backups to an FTP server for migration.
+A simplified script to set up a Palworld dedicated server on Linux with feature to uploads backups to a FTP server for easy migration.
 
 > [!CAUTION]
 > - This script is based on Debian 12, it might work with other distros.
